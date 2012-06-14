@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"></string>
+    <string name="app_name">toBuy.com</string>
+    <string name="no_data">No available</string>
+    <string name="search_acbar">Search</string>
+
+</resources>
